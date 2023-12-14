@@ -1,0 +1,34 @@
+h2 {
+  padding: 10px;
+}
+
+.person {
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #000;
+  max-width: 600px;
+}
+
+.info {
+  display: flex;
+  gap: 10px;
+}
+
+.address {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+}
+
+.address dd {
+  font-weight: bold;
+}
+
+.details-container a {
+  display: block;
+  padding: 10px;
+}
