@@ -65,4 +65,12 @@ export class TasksComponent implements OnInit {
       this.ngOnInit();
     });
   }
+
+  canAddTask(): boolean {
+    return !(this.newTask.title && this.newTask.deadline);
+  }
+
+  canArchiveCompleted(): boolean {
+    return this.tasks.some((task: Task) => task.completed);
+  }
 }

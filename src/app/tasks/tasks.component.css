@@ -52,21 +52,3 @@
   align-items: center;
   gap: 5px;
 }
-
-.form-group button {
-  background: #fff;
-  border: 2px solid #55ff5d;
-  padding: 5px 5px;
-  text-transform: uppercase;
-  font-weight: 700;
-  cursor: pointer;
-}
-
-.archive-btn {
-  background: #fff;
-  border: 2px solid #ffc955;
-  padding: 5px 5px;
-  text-transform: uppercase;
-  font-weight: 700;
-  cursor: pointer;
-}
