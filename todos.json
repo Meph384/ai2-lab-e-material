@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+      "title": "Pierwsze zadanie",
+      "deadline": "2022-01-28",
+      "completed": true,
+      "archived": true,
+      "id": 1
+    },
+    {
+      "title": "Pierwsze zadanie",
+      "deadline": "2022-01-28",
+      "completed": "false",
+      "archived": "true",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "deadline": "2024-01-24",
+      "title": "Testowe drugie zadanie",
+      "completed": true,
+      "archived": true,
+      "id": 4
+    },
+    {
+      "title": "Testowe trzecie zadanie",
+      "deadline": "2024-01-30",
+      "completed": true,
+      "archived": true,
+      "id": 5
+    },
+    {
+      "title": "test",
+      "deadline": "2024-01-16",
+      "completed": true,
+      "archived": true,
+      "id": 6
+    }
+  ]
+}
